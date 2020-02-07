@@ -27,7 +27,7 @@ ratio of the zooplankton community. This image shows a multiple regression model
 
      <img src="https://SeascapeScience.github.io/images/Jellies_JunJulAug_zoom.gif" width="600">
 
-For now, I use them to drive a daily jellyfish forecast for three species. The forecast can be found here:
+     For now, I use them to drive a daily jellyfish forecast for three species. The forecast can be found here:
 
      <https://eco.bigelow/org/jellycast>
 
