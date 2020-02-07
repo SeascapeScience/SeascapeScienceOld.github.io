@@ -27,7 +27,7 @@ ratio of the zooplankton community. This image shows a multiple regression model
 
 `   `<https://eco.bigelow/org/jellycast>
 
-   The paper describing the methodology is here:
+    The paper describing the methodology is here:
 
 `   `<https://www.nrcresearchpress.com/doi/full/10.1139/anc-2017-0003>
 
