@@ -25,7 +25,7 @@ ratio of the zooplankton community. This image shows a multiple regression model
 
 1. **Citizen reports and forecasts** --  Since starting the citizen reporting program in 2014, I've received thousands of jellyfish sighting reports. These form an interesting dataset in their own right, including size, species, and imagery. There are probably some interesting questions we could ask. Here are some of the sightings from the first summer:
 
-     <img src="https://SeascapeScience.github.io/images/Jellies_JunJulAug_zoom.gif" width="600">
+<img src="https://SeascapeScience.github.io/images/Jellies_JunJulAug_zoom.gif" width="600">
 
 For now, I use them to drive a daily jellyfish forecast for three species. The forecast can be found here:
 
