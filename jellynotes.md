@@ -25,11 +25,11 @@ ratio of the zooplankton community. This image shows a multiple regression model
 
 1. Citizen reports and forecasts -  Since starting the citizen reporting program in 2014, I've received thousands of jellyfish sighting reports. These form an interesting dataset in their own right, including size, species, and imagery. There are probably some interesting questions we could ask. For now, I use them to drive a daily jellyfish forecast for three species. The forecast can be found here:
 
-<https://eco.bigelow/org/jellycast>
+  <https://eco.bigelow/org/jellycast>
 
-The paper describing the methodology is here:
+  The paper describing the methodology is here:
 
-<https://www.nrcresearchpress.com/doi/full/10.1139/anc-2017-0003>
+  <https://www.nrcresearchpress.com/doi/full/10.1139/anc-2017-0003>
 
 2. Salp model -  A student put together a dynamical population model of salps. The model did a great job capturing the seasonal cycle of salps measured in the EcoMon dataset (a rapid bloom in September). The annual cycle was not captured as well.
 
