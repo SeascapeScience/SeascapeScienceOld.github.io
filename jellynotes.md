@@ -3,7 +3,7 @@
 ## "Gelatinosity" trait
 
 1. **Empirical modeling of the gelisphere** -- Using predictor variables to map the carbon-to-volume 
-ratio of the zooplankton community. This image shows a multiple regression model that used data from the World Ocean Atlas (temperature, O2, etc...) to predict (estimate) the carbon-to-volume numbers taken from the Copepod database.
+ratio of the zooplankton community. This image shows a multiple regression model that used data from the World Ocean Atlas (temperature, O2, etc...) to predict (estimate) the carbon-to-volume numbers taken from the Copepod database. We could definitely go beyond multiple regression and do something more interesting.
 
      <img src="https://SeascapeScience.github.io/images/GeliMultiregress04.jpg" width="500">
 
