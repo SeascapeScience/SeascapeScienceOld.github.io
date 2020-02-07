@@ -19,6 +19,8 @@ ratio of the zooplankton community. This image shows a multiple regression model
 
 2. During some of the recent jellyfish blooms, I started collecting citizen reports of jellyfish sightings (see below). At one point, I compared the sighting locations to historical data from Henry Bigelow from the early 1900s. This map shows the overlap between the region where he found whitecross jellyfish (shaded region) and the citizen reports of the same species (yellow dots). There's a pretty good overlap.
 
+<img src="https://SeascapeScience.github.io/images/JellyMaps02_Bigelow.jpg" width="600">
+
 ## Modeling
 
 1. Citizen reports and forecasts -  Since starting the citizen reporting program in 2014, I've received thousands of jellyfish sighting reports. These form an interesting dataset in their own right, including size, species, and imagery. There are probably some interesting questions we could ask. For now, I use them to drive a daily jellyfish forecast for three species. The forecast can be found here:
