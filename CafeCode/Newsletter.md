@@ -8,7 +8,7 @@ We swim in a sea of algorithms {
 }
 ```
 
-**This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.**  
+### This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
 **2020.05.15**  
