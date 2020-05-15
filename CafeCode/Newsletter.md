@@ -11,8 +11,7 @@ We swim in a sea of algorithms {
 **This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.**  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
-1. There's a lot of doomsday talk about **Artificial Intelligence** (AI), but the reality is that AI is already surrounding us in our everyday lives.  
-I recently saw this TEDx talk on "*AI Literacy, or Why Understanding AI Will Help You Every Day*"  
+1. There's a lot of doomsday talk about **Artificial Intelligence** (AI), but the reality is that AI is already surrounding us in our everyday lives. I recently saw this TEDx talk on "*AI Literacy, or Why Understanding AI Will Help You Every Day*"  
 Here's the talk:  
 https://www.ted.com/talks/jordan_harrod_ai_literacy_or_why_understanding_ai_will_help_you_every_day  
 And here is Jordan Herrod's page, if you're interested in digging deeper:  
@@ -42,6 +41,7 @@ And of course there's an R package for interfacing with that database. https://d
  </summary>
 
 <br>
+
 **1.** Life in Code - I'm going to start this week with a book recommendation.
 Ellen Ullman has written so many insightful and amusing essays 
 about the culture of the coding world. 
