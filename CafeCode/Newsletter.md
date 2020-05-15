@@ -27,7 +27,7 @@ I really liked this visualization of linear regression by Chelsea Parlett-Peller
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ChelseaParlett/status/1257754533989683200">
 <img src="https://pbs.twimg.com/media/EXRxFKwU4AAhB-x?format=jpg&name=medium" width="300"></a>
 
-4. **Dark Data Rescue** - Dark data is the data that is collected, but buried in various ways (e.g. cardboard boxes, excel sheets).  
+4. **Dark Data Rescue** - Dark data is the data that is collected, but buried in various ways (e.g. cardboard boxes, excel sheets, bar napkins).  
 This spot in the Arctic was sampled in 1961:  
 ![](https://github.com/SeascapeScience/SeascapeScience.github.io/blob/master/CafeCode/images/Appolonio2011.png?raw=true)   
 and the [paper was published in 2011](https://www.researchgate.net/publication/270298552_Over-Winter_Oceanographic_Profiles_in_Jones_Sound_Canadian_Arctic_Archipelago_November_1961_-_June_1962_Temperature_Salinity_Oxygen_and_Nutrients) . It's like a time machine to sample the past.  
