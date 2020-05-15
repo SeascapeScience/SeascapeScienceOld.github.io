@@ -42,7 +42,7 @@ And of course there's an R package for interfacing with that database. https://d
 
 <br>
 
-**1.** Life in Code - I'm going to start this week with a book recommendation.
+**1.** **Life in Code** - I'm going to start this week with a book recommendation.
 Ellen Ullman has written so many insightful and amusing essays 
 about the culture of the coding world. 
 A great place to start is this book:<br>
@@ -54,7 +54,7 @@ A great place to start is this book:<br>
 gigantic R studio cheatsheet</a> that was shared recently. 
 It's a good starting point for learning to do new things in R.<br>
 
-**3.** XKCDify - A somewhat more esoteric resource... 
+**3.** **XKCDify** - A somewhat more esoteric resource... 
 Have you ever wanted to convert one of your figures to the style of the popular webcomic
 <a target="_blank" rel="noopener noreferrer" href="https://xkcd.com/">xkcd</a>?
 There is code, in multiple languages, to convert something like this:<br>
@@ -75,7 +75,7 @@ of how to read the summary of a linear model
 <a target="_blank" rel="noopener noreferrer" href="https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R">
 QUICK GUIDE: INTERPRETING SIMPLE LINEAR MODEL OUTPUT IN R</a><br>
 
-**5.** Finally, let's finish with a quote from Buffy the Vampire Slayer.
+**5.** Finally, let's finish with a quote from **Buffy the Vampire Slayer**.
 These things can be helpful during a pandemic.
 After all, the show covered everything from
 <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Hush_(Buffy_the_Vampire_Slayer)">quarantine</a> <br>
