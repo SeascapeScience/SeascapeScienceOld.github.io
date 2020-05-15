@@ -35,7 +35,9 @@ A good starting place for dark data in the geosciences is the **Pangea database*
 And of course there's an R package for interfacing with that database. https://docs.ropensci.org/pangaear/  
 
 5. I feel like I should have a nice Buffy quote or something to wrap up the week, but instead I'm going to drop in one last resource that came up this week. Here is a resource for **using GPU cards with R**. Hopefully we'll dig into this more later. https://github.com/cdeterman/gpuR  
-
+  
+   That's it for this week. Nick Record signing off.
+  
 ## Previous Roundups
 
 <details>
