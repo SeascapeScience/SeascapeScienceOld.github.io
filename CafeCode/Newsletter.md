@@ -11,7 +11,7 @@ We swim in a sea of algorithms {
 **This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.**  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
-1. There's a lot of doomsday talk about Artificial Intelligence (AI), but the reality is that AI is already surrounding us in our everyday lives.  
+1. There's a lot of doomsday talk about **Artificial Intelligence** (AI), but the reality is that AI is already surrounding us in our everyday lives.  
 I recently saw this TEDx talk on "*AI Literacy, or Why Understanding AI Will Help You Every Day*"  
 Here's the talk:  
 https://www.ted.com/talks/jordan_harrod_ai_literacy_or_why_understanding_ai_will_help_you_every_day  
@@ -26,7 +26,9 @@ I really liked this visualization of linear regression, drawn as a neural networ
 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/ChelseaParlett/status/1257754533989683200">
 <img src="https://pbs.twimg.com/media/EXRxFKwU4AAhB-x?format=jpg&name=medium" width="300"></a>
 
-4. 
+4. **Dark Data Rescue** - Dark data is the data that is collected, but buried in various ways (e.g. cardboard boxes, excel sheets).  
+This spot in the Arctic was sampled in 1961:  
+
 
 
 <details>
