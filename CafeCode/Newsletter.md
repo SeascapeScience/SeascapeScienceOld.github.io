@@ -92,8 +92,50 @@ philosophy and cultural theory</a>.<br>
 <details>
  <summary>
   <b style="font-family:'Courier New'">
-  2020.05.01</b>
+  2020.04.24</b>
  </summary>
-
-
+  <div style="margin-left: 1em; font-family:'Courier New'"><br>
+<b>1.</b>  "<u>Compute Like an Artist</u>" is a nod to Austin Kleon, <br>
+whose <a target="_blank" rel="noopener noreferrer" href='https://austinkleon.com/newsletter/'>newsletter</a> I learn a lot from,
+such as how to "Steal Like an Artist." <br>
+<i>I'm still honing my stealing practices, so bear with me</i>.<br>
+The phrasing is a little clunky, but I thought it was better than<br> 
+"Compute Like a Thief," or "Steal Like a Computer."<br>
+<br>
+<b>2.</b>  <u>COVID forecasting</u> is everywhere now.<br> 
+This video from <a target="_blank" rel="noopener noreferrer" href="https://constancecrozier.com/2020/04/16/forecasting-s-curves-is-hard/">
+Constance Crozier</a> shows a great simulation <br>
+illustrating how hard it is to forecast the point at which an S-curve levels off.<br>
+With COVID-19, we're still at the point where the forecast is flapping all over<br>
+the place like a rogue fire hose.
+<br>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/408599958" width="320" height="213" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
+<b>3.</b> I will mostly be posting resources that are less mainstream than the NYTimes,<br>
+but I couldn't resist sharing 
+<a target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/2020/04/08/science/ai-ocean-whales-study.html"> this article 
+on artificial intelligence + ocean science</a>.<br>
+This is the area of research I work in. The article covers the great potential <br>
+of AI in ocean science.<br>
+Like any technology, there are there are dangers to AI too. A topic for later.
+<br>
+<br>
+<b>4.</b> <u>Itty Bitty Sites</u>. I don't know where all of this will lead, but for now <br>
+I'm using 
+<a target="_blank" rel="noopener noreferrer" href="https://itty.bitty.site/">itty.bitty.site </a><br>
+...The entire page, html etc., is embedded in the URL.<br>
+ The <b>Caf&eacute Code</b> Newsletter is not actually hosted anywhere.<br>
+<br>
+<b>5.</b> <u>Don't forget the art</u>!  As "Steal Like an Artist" reminds me, <br>
+we are in some ways a mix of all the things we surround ourselves with.<br>
+I'll finish with one of my favorite data science artists, 
+<a target="_blank" rel="noopener noreferrer" href="http://www.jillpelto.com/">Jill Pelto</a>, <br>
+whose work often combines time series data with a scene of the environment that <br>
+underlies that data.<br>
+<img src="https://images.squarespace-cdn.com/content/v1/56a25d714bf1182dd4517be5/1531250926364-LC2K1357HFL1CN3KLNQY/ke17ZwdGBToddI8pDm48kBSAVZKVqRGfjL8yAktGb-97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mhydAgiKdIfeAoxVgE7c7orLjRgnPTPkiKRPtaHXv36uDJPY_k35pRkXWvn-5ruGw/Smaller_Gulf+of+Maine+Temperature+Variability+copy.jpeg?format=1000w" width=300><br>
+<br>
+That's it for this week. Nick Record, signing off.
+  </div>
+<br>
 </details>
