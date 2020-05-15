@@ -1,10 +1,11 @@
 # Café Code
 
-**We swim in a sea of algorithms.**  
-
+```javascript
+We swim in a sea of algorithms.
    The more creativity we have in our coding, the more we have in our world.  
-      **Compute like an artist.**  
-     
+      Compute like an artist.
+```
+
 **This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.**  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
