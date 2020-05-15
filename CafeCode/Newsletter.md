@@ -87,3 +87,13 @@ philosophy and cultural theory</a>.<br>
  
 
 </details>
+
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.05.01</b>
+ </summary>
+
+
+</details>
