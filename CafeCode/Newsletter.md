@@ -62,9 +62,9 @@ There is code, in multiple languages, to convert something like this:<br>
 ...into something like this:<br>
 <img src="https://github.com/SeascapeScience/SeascapeScience.github.io/blob/master/CafeCode/images/xkcd2.png?raw=true" width=300><br>
 Links:<br>
-&nbsp <a target="_blank" rel="noopener noreferrer" href="https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/">
+   <a target="_blank" rel="noopener noreferrer" href="https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/">
 Python/Matplotlib</a><br>
-&nbsp <a target="_blank" rel="noopener noreferrer" href="https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify">
+   <a target="_blank" rel="noopener noreferrer" href="https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify">
 MatLab</a><br>
 (As a lifelong cartoonist, I count this as art.)<br>
 
@@ -83,7 +83,7 @@ to various topics in
 <a target="_blank" rel="noopener noreferrer" href="https://www.theatlantic.com/entertainment/archive/2015/10/the-rise-of-buffy-studies/407020/">
 philosophy and cultural theory</a>.<br>
 ...Including algorithms:<br>
-&nbsp &nbsp <i>"Robots are the strangest people."</i>
+    <i>"Robots are the strangest people."</i>
  
 
 </details>
