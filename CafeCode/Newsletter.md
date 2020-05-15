@@ -28,7 +28,10 @@ I really liked this visualization of linear regression, drawn as a neural networ
 
 4. **Dark Data Rescue** - Dark data is the data that is collected, but buried in various ways (e.g. cardboard boxes, excel sheets).  
 This spot in the Arctic was sampled in 1961:  
-
+<img src="https://github.com/SeascapeScience/SeascapeScience.github.io/blob/master/CafeCode/images/Appolonio2011.png?raw=true" width="200">  
+and the [paper was published in 2011](https://www.researchgate.net/publication/270298552_Over-Winter_Oceanographic_Profiles_in_Jones_Sound_Canadian_Arctic_Archipelago_November_1961_-_June_1962_Temperature_Salinity_Oxygen_and_Nutrients) . It's like a time machine to sample the past.  
+A good starting place for dark data in the geosciences is the Pangea database. https://www.pangaea.de/  
+And of course there's an R package for interfacing with that database. https://docs.ropensci.org/pangaear/  
 
 
 <details>
