@@ -11,6 +11,8 @@ We swim in a sea of algorithms {
 **This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.**  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
+**2020.05.15**  
+
 1. There's a lot of doomsday talk about **Artificial Intelligence** (AI), but the reality is that AI is already surrounding us in our everyday lives. I recently saw this TEDx talk on "*AI Literacy, or Why Understanding AI Will Help You Every Day*"  
 Here's the talk:  
 https://www.ted.com/talks/jordan_harrod_ai_literacy_or_why_understanding_ai_will_help_you_every_day  
