@@ -20,7 +20,7 @@
 **1.** Life in Code - I'm going to start this week with a book recommendation.
 Ellen Ullman has written so many insightful and amusing essays 
 about the culture of the coding world. 
-A great place to start is this book:
+A great place to start is this book:<br>
 <a target="_blank" rel="noopener noreferrer" href="https://us.macmillan.com/books/9780374534516">
 <img src="https://github.com/SeascapeScience/SeascapeScience.github.io/blob/master/CafeCode/images/9781250181695.jpg?raw=true" width=100>
 </a><br>
