@@ -32,4 +32,12 @@
  
    - An [overview/comparison of diapause models (Record et al. 2018)](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13414)
    - Some previous Calanus modeling papers: [Record et al. 2013](https://www.sciencedirect.com/science/article/abs/pii/S0304380013001750) [Record et al. 2012](https://www.researchgate.net/publication/223958559_First_principles_of_copepod_development_help_explain_global_marine_diversity_patterns)
+   - Projects
+     - A Calanus data layer for input into right whale models (Camille)
+     - Next steps of mapping the global lipidscape
+     
+## Jellyfish
+  - Some separate notes at this link
+  
+     
    
