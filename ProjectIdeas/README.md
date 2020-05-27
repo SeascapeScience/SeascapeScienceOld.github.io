@@ -40,7 +40,9 @@
   - Some separate notes at [this link](https://github.com/SeascapeScience/SeascapeScience.github.io/blob/master/ProjectIdeas/jellynotes.md)
   
 ## Theory and Modeling
-  - [The paradox of “the paradox of the plankton” Record et al. 2013](https://academic.oup.com/icesjms/article/71/2/236/777680) - Coexistence in plankton models
-  - [Plankton post-paradox Record et al. 2014](https://academic.oup.com/icesjms/article/71/2/296/790726)
+  - [A note on the effects of epidemic forecasts on epidemic dynamics](https://github.com/SeascapeScience/SIRforecastfeedback) (paper pre-print up on github, with code)
+  - [Some theory on marine virus ecology](https://www.frontiersin.org/articles/10.3389/fmars.2016.00251/full)
+  - [The paradox of “the paradox of the plankton” (Record et al. 2013)](https://academic.oup.com/icesjms/article/71/2/236/777680) - Coexistence in plankton models
+  - [Plankton post-paradox (Record et al. 2014)](https://academic.oup.com/icesjms/article/71/2/296/790726)
   
    
