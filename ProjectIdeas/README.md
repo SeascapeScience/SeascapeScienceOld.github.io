@@ -18,6 +18,8 @@
    - Jellyfish
      - [Forecasting jellyfish (Record et al. 2018)](https://www.nrcresearchpress.com/doi/full/10.1139/anc-2017-0003)
      - My [jellyfish article in Maine Boats Homes & Harbors](https://maineboats.com/print/issue-141/unearthly-floating-objects)
+   - Crowd science
+     - [A short paper on crowd science](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10171)
  
  ## Environmental DNA
  
