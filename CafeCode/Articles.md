@@ -4,9 +4,9 @@ May 29 - [What do we do with all this big data?](https://www.ted.com/talks/susan
 
 June 5 - [What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
 
-June 12 - 
+June 12 - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript) (TED talk)
 
-June 19 - [AI Is Biased. Here's How Scientists Are Trying to Fix It] (https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
+June 19 - [AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
 
 June 26 -
 
