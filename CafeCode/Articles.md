@@ -12,6 +12,6 @@ June 26 - [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https
 
 July 3 - Holiday
 
-July 17 - 
+July 17 - [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
 
 July 24 - 
