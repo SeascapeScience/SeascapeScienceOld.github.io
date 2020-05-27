@@ -7,6 +7,9 @@
    - The [short video describing the paper](https://vimeo.com/374791099)
    - Coverage by [The New York Times](https://www.nytimes.com/2019/05/23/science/right-whales-endangered.html)
    - My [right whale article in Maine Boats Homes & Harbors](https://maineboats.com/print/issue-153/uncertain-future-right-whales)
+ - Project ideas
+   - Forecasting systems
+   - Blending across data quality types
    
 ## Forecasting
 
@@ -20,7 +23,10 @@
      - My [jellyfish article in Maine Boats Homes & Harbors](https://maineboats.com/print/issue-141/unearthly-floating-objects)
    - Crowd science
      - [A short paper on crowd science](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10171)
- 
+ - Project ideas
+   - Forecasting using crowd science (e.g. feedback bias)
+   - Applying the neural network algorithm to other biodiversity datasets ([repo here](https://github.com/SeascapeScience/NeuralNetCast))
+   
  ## Environmental DNA
  
   - Background info
@@ -47,4 +53,6 @@
   - [The paradox of “the paradox of the plankton” (Record et al. 2013)](https://academic.oup.com/icesjms/article/71/2/236/777680) - Coexistence in plankton models
   - [Plankton post-paradox (Record et al. 2014)](https://academic.oup.com/icesjms/article/71/2/296/790726)
   
-   
+## Other
+  - Krill swarming (Antarctic)
+  - 
