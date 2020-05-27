@@ -14,4 +14,4 @@ July 3 - Holiday
 
 July 17 - [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
 
-July 24 - 
+July 24 - [In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
