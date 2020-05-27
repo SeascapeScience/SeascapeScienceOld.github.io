@@ -39,5 +39,8 @@
 ## Jellyfish
   - Some separate notes at [this link](https://github.com/SeascapeScience/SeascapeScience.github.io/blob/master/ProjectIdeas/jellynotes.md)
   
-     
+## Theory and Modeling
+  - [The paradox of “the paradox of the plankton” Record et al. 2013](https://academic.oup.com/icesjms/article/71/2/236/777680) - Coexistence in plankton models
+  - [Plankton post-paradox Record et al. 2014](https://academic.oup.com/icesjms/article/71/2/296/790726)
+  
    
