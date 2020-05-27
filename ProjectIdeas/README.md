@@ -37,7 +37,7 @@
      - Next steps of mapping the global lipidscape
      
 ## Jellyfish
-  - Some separate notes at this link
+  - Some separate notes at [this link](https://github.com/SeascapeScience/SeascapeScience.github.io/blob/master/ProjectIdeas/jellynotes.md)
   
      
    
