@@ -20,7 +20,8 @@ _**Quantophrenia**: excessive reliance on statistics, especially in areas that a
 
 3. Speaking of drowning in digital communications, many folks have moved workshops and conferences online. We're doing the same thing with Ocean Hack Week. Here are a few reflections from folks who have done this recently and taken the time to write up their lessons-learned. [PLoS article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000650), [Ecological Forecasting Initiative](https://ecoforecast.org/going-virtual-what-we-learned-from-the-efi-rcn-virtual-workshop/), [Photonics Online Meetup](https://arxiv.org/ftp/arxiv/papers/2003/2003.03219.pdf)
 
-4. This week's book recommendation comes from one of our Café Code alums: _Data Feminism_ by Catherine D’Ignazio and Lauren Klein. Catherine D’Ignazio directs the [Data + Feminism Lab at MIT](https://dataplusfeminism.mit.edu/); "The Data + Feminism Lab uses data and computational methods to work towards gender and racial equity, particularly as they relate to space and place."  
+4. This week's book recommendation comes from one of our Café Code alums.   
+_Data Feminism_ by Catherine D’Ignazio and Lauren Klein. Catherine D’Ignazio directs the [Data + Feminism Lab at MIT](https://dataplusfeminism.mit.edu/); "The Data + Feminism Lab uses data and computational methods to work towards gender and racial equity, particularly as they relate to space and place."  
 <img src="https://books.google.com/books/content?id=x5nSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE718h8dL39rXZ3nP3-HB012N0cDZPJb7AfpZv1yckBZjAfdOcPC1v3NDiiqf6hOk6v446ymGx4Lz4ZCUzOwGXY44VRs9L0_WjDSnNHqJT_Y8D1ARS5WwFMHRFRkEkKzjo3VlwbnB" width=150>
 
 5. Finally, since I was writing about **dark data** last time, I want to end with this amusing conversation I had last week:  
