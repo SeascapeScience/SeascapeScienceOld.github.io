@@ -11,7 +11,33 @@ We swim in a sea of algorithms {
 ### This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
-**2020.05.15**  
+**2020.05.29**
+
+1. The summer of code has started for the Café Code group. Around 20 summer interns have started, working remotely from all around the country, on projects that will involve coding and/or data for ocean science. Wish us luck!
+
+2. Up next is a fun vocab word that came across my desk via one of the many digital communications that I'm drowning in. The word:  
+_**Quantophrenia**: excessive reliance on statistics, especially in areas that are not quantifiable._ I thought of this while watching the TED talk by Susan Etlinger that the coding group shared this week: [What do we do with all this big data?](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data/transcript#t-26273)
+
+3. Speaking of drowning in digital communications, many folks have moved workshops and conferences online. We're doing the same thing with Ocean Hack Week. Here are a few reflections from folks who have done this recently, and taking the time to write up their lessons-learned. [PLoS article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000650), [Ecological Forecasting Initiative](https://ecoforecast.org/going-virtual-what-we-learned-from-the-efi-rcn-virtual-workshop/), [Photonics Online Meetup](https://arxiv.org/ftp/arxiv/papers/2003/2003.03219.pdf)
+
+4. This week's book recommendation comes from one of our Café Code alums: _Data Feminism_ by Catherine D’Ignazio and Lauren Klein. Catherine D’Ignazio directs the [Data + Feminism Lab at MIT](https://dataplusfeminism.mit.edu/); "The Data + Feminism Lab uses data and computational methods to work towards gender and racial equity, particularly as they relate to space and place."  
+<img src="https://books.google.com/books/content?id=x5nSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE718h8dL39rXZ3nP3-HB012N0cDZPJb7AfpZv1yckBZjAfdOcPC1v3NDiiqf6hOk6v446ymGx4Lz4ZCUzOwGXY44VRs9L0_WjDSnNHqJT_Y8D1ARS5WwFMHRFRkEkKzjo3VlwbnB" width=150>
+
+5. Finally, since I was writing about **dark data** last time, I want to end with this amusing conversation I had last week:  
+Me: "Bob, is the raw data from the 90s surveys still around?"  
+Bob: "Nick … I'll send you the [published] 1997 paper.  J- A-’s data was on napkins (really)."  
+
+   That's it for this week. Nick Record signing off.
+
+## Previous Roundups
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.05.15</b>
+ </summary>
+
+<br>
 
 1. There's a lot of doomsday talk about **Artificial Intelligence** (AI), but the reality is that AI is already surrounding us in our everyday lives. I recently saw this TEDx talk on "*AI Literacy, or Why Understanding AI Will Help You Every Day*"  
 Here's the talk:  
@@ -38,7 +64,6 @@ And of course there's an R package for interfacing with that database. https://d
   
    That's it for this week. Nick Record signing off.
   
-## Previous Roundups
 
 <details>
  <summary>
