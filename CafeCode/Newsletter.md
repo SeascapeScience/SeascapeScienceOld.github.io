@@ -11,7 +11,39 @@ We swim in a sea of algorithms {
 ### This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
-**2020.05.29**
+
+1. **Algorithmic Bias** - This week has been a historically important one in the US. It might seem strange if you haven't been exposed to these ideas, but altorithms are an important part of the picture, particularly in the way that they reinforce and magnify biases. Machine learning algorithms are used in everything from résumé sorting to making parole decisions. One entry point to this topic, which we discussed in our coding hour, is [this article on algorithmic bias](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/).
+
+2. **Predictive Policing** - To go one step deeper, one example is how neural networks are used to try to predict crimes before they happen, and then to direct police resources to those times/places. Here are a few articles as a starting point.
+   - https://www.sciencemag.org/news/2016/09/can-predictive-policing-prevent-crime-it-happens
+   - https://www.govtech.com/public-safety/LAPD-Predictive-Policing-Tool-Raises-Racial-Bias-Concerns.html
+   - https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained
+   - https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
+
+3. **Here are some organizations** that are doing great things to to make coding more accessible, to build diversity in our coding communities, and to build foundations that will help push back against problems like algorithmic bias:
+   - [Black Girls Code](https://girlswhocode.cmail20.com/t/d-l-mdlhko-jitufjhz-r/)
+   - [Girls Who Code](https://girlswhocode.com)
+   - [Code2040](https://girlswhocode.cmail20.com/t/d-l-mdlhko-jitufjhz-y/)
+   - [CSForAll](https://girlswhocode.cmail20.com/t/d-l-mdlhko-jitufjhz-j/)
+   
+4. **A manifesto for algorithms in the environment** - Calling something a manifesto is one way to give it swagger, I suppose. In any case, this document (linked below) was a good start at trying to build principles around responsible algorithm design as it applies to the environment. The original site for the "Biosphere Code Manifesto" doesn't seem to still be there, but this write-up in the Guardian is still around:
+   - [A manifesto for algorithms in the environment](https://www.theguardian.com/science/political-science/2015/oct/05/a-manifesto-for-algorithms-in-the-environment)
+
+5. **On an unrelated note**, our conversation went down a rabbit hole of how to best share data files in our new zoom-research environment. [This "what-if" blog/comic came up](https://what-if.xkcd.com/31/), along with the quote,  
+   _"When - if ever - will the bandwidth of the Internet surpass that of FedEx?"_ —Johan Öbrink  
+   <img src="https://what-if.xkcd.com/imgs/a/31/fedex_drives.png">
+
+## Previous Roundups
+
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.05.29</b>
+ </summary>
+
+<br>
+
 
 1. The summer of code has started for the Café Code group. Around 20 summer interns have started, working remotely from all around the country, on projects that will involve coding and/or data for ocean science. Wish us luck!
 
@@ -30,7 +62,7 @@ Bob: "Nick … I'll send you the [published] 1997 paper.  J- A-’s data was on 
 
    That's it for this week. Nick Record signing off.
 
-## Previous Roundups
+</details>
 
 <details>
  <summary>
