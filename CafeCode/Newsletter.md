@@ -39,7 +39,7 @@ We swim in a sea of algorithms {
 Data from: ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
 
 4.  **Data visualization** - Here is the TED talk that we talked about this week. It's about ten years old now, but there are some cool thoughts on data visualization. More on this topic in the future. 
-   - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript)
+     - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript)
 
 5.  I don't know why there are always five items on these lists. It's a fine number. There are five regular solids (tetrahedron, cube, octahedron, dodecahedron, and icosahedron), and five is a Fermat prime. It also took me five minutes to think of this last item.
 
