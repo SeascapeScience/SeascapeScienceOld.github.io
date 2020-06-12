@@ -12,6 +12,45 @@ We swim in a sea of algorithms {
 [@SeascapeScience](https://twitter.com/seascapescience)
 
 
+## Previous Roundups
+
+**2020.06.12**
+
+1. **Some general resources** - Here are some of the resources people shared this week that have been helpful for getting projects started:
+    - Introduction to unix/bash: http://swcarpentry.github.io/shell-novice/
+    - Resources for digitizing data in pdf and image files: https://automeris.io/WebPlotDigitizer/ , https://pdftables.com/ , https://transcription.si.edu , https://community.rstudio.com/t/need-to-extract-tables-from-a-pdf-using-r/17144 , https://www.oldweather.org/
+    - Many old figures and tables from scientific papers have already been digitized and are in the Pangaea database: https://www.pangaea.de/
+    - Other ocean databases folks should be aware of: [BCO-DMO](https://www.bco-dmo.org/), [SeaBASS](https://seabass.gsfc.nasa.gov/)
+    
+2.  **Algorithmic Bias** - Here is some more reading, adding to the list of reading on algorithmic bias. This is just the tip of the iceberg of course.
+    - [What is algorithmic bias](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/
+)
+    - [Gender shades](http://gendershades.org/overview.html)
+    - [Machine bias: There’s software used across the country to predict future criminals. And it’s biased against blacks.](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+)
+
+3.  **Climate during COVID-19** This is a bit of an aside, but I've been plotting the CO_2 anomalies this year, as compared to previous years. Everything is normalized to the first six weeks of the year. Basically, atmospheric carbon dioxide shows no notable devation from the long term noise.
+
+<img src="https://pbs.twimg.com/media/EaVMnkhXsAAl2sB?format=png&name=medium" WIDTH=300>
+
+Data from: ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
+
+4.  **Data visualization** - Here is the TED talk that we talked about this week. It's about ten years old now, but there are some cool thoughts on data visualization. More on this topic in the future. [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript)
+
+5.  I don't know why there are always five items on these lists. It's a fine number. There are five regular solids (tetrahedron, cube, octahedron, dodecahedron, and icosahedron), and five is a Fermat prime. It also took me five minutes to think of this last item.
+
+Nick Record, signing off
+
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.05.29</b>
+ </summary>
+
+<br>
+
+
 1. **Algorithmic Bias** - This week has been a historically important one in the US. It might seem strange if you haven't been exposed to these ideas, but altorithms are an important part of the picture, particularly in the way that they reinforce and magnify biases. Machine learning algorithms are used in everything from résumé sorting to making parole decisions. One entry point to this topic, which we discussed in our coding hour, is [this article on algorithmic bias](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/).
 
 2. **Predictive Policing** - To go one step deeper, one example is how neural networks are used to try to predict crimes before they happen, and then to direct police resources to those times/places. Here are a few articles as a starting point.
@@ -33,13 +72,13 @@ We swim in a sea of algorithms {
    _"When - if ever - will the bandwidth of the Internet surpass that of FedEx?"_ —Johan Öbrink  
    <img src="https://what-if.xkcd.com/imgs/a/31/fedex_drives.png">
 
-## Previous Roundups
+</details>
 
 
 <details>
  <summary>
   <b style="font-family:'Courier New'">
-  2020.05.29</b>
+  2020.06.05</b>
  </summary>
 
 <br>
