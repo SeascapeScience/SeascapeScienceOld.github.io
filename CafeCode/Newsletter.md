@@ -12,8 +12,6 @@ We swim in a sea of algorithms {
 [@SeascapeScience](https://twitter.com/seascapescience)
 
 
-## Previous Roundups
-
 **2020.06.12**
 
 1. **Some general resources** - Here are some of the resources people shared this week that have been helpful for getting projects started:
@@ -40,6 +38,8 @@ Data from: ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
 5.  I don't know why there are always five items on these lists. It's a fine number. There are five regular solids (tetrahedron, cube, octahedron, dodecahedron, and icosahedron), and five is a Fermat prime. It also took me five minutes to think of this last item.
 
 Nick Record, signing off
+
+## Previous Roundups
 
 
 <details>
