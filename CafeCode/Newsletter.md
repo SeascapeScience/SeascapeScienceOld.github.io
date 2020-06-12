@@ -16,7 +16,12 @@ We swim in a sea of algorithms {
 
 1. **Some general resources** - Here are some of the resources people shared this week that have been helpful for getting projects started:
     - Introduction to unix/bash: http://swcarpentry.github.io/shell-novice/
-    - Resources for digitizing data in pdf and image files: https://automeris.io/WebPlotDigitizer/ , https://pdftables.com/ , https://transcription.si.edu , https://community.rstudio.com/t/need-to-extract-tables-from-a-pdf-using-r/17144 , https://www.oldweather.org/
+    - Resources for digitizing data in pdf and image files: 
+       - https://automeris.io/WebPlotDigitizer/
+       - https://pdftables.com/
+       - https://transcription.si.edu
+       - https://community.rstudio.com/t/need-to-extract-tables-from-a-pdf-using-r/17144
+       - https://www.oldweather.org/
     - Many old figures and tables from scientific papers have already been digitized and are in the Pangaea database: https://www.pangaea.de/
     - Other ocean databases folks should be aware of: [BCO-DMO](https://www.bco-dmo.org/), [SeaBASS](https://seabass.gsfc.nasa.gov/)
     
@@ -33,7 +38,8 @@ We swim in a sea of algorithms {
 
 Data from: ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
 
-4.  **Data visualization** - Here is the TED talk that we talked about this week. It's about ten years old now, but there are some cool thoughts on data visualization. More on this topic in the future. [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript)
+4.  **Data visualization** - Here is the TED talk that we talked about this week. It's about ten years old now, but there are some cool thoughts on data visualization. More on this topic in the future. 
+   - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript)
 
 5.  I don't know why there are always five items on these lists. It's a fine number. There are five regular solids (tetrahedron, cube, octahedron, dodecahedron, and icosahedron), and five is a Fermat prime. It also took me five minutes to think of this last item.
 
