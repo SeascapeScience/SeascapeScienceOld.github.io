@@ -24,7 +24,7 @@ We swim in a sea of algorithms {
 
    <a href="https://www.allsides.com/"><img src="https://www.allsides.com/sites/default/files/AllSidesMediaBiasChart_Version1.1_11.18.19.jpg" width=200></a>
 
-4. Today we celebrate Juneteenth. 
+4. And finally, today we celebrate Juneteenth. 
 
 Nick Record, signing off
 
