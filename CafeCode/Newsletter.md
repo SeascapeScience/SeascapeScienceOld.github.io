@@ -11,8 +11,34 @@ We swim in a sea of algorithms {
 ### This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
+**2020.06.19**
 
-**2020.06.12**
+1. This week our coding group talked about biases in data and in the world. The most recommended resource was the **"Parable of the Polygons"**, which is an interactive simulation about how bias shapes the world. It's a great combination of modeling and visualization. [Check it out here](https://ncase.me/polygons/)
+
+2. If you want to keep going, here are some of the other readings that went along with the session. 
+   - [What is implicit bias?](https://www.cell.com/neuron/pdf/S0896-6273(18)30643-3.pdf)    
+   - [Example of bias influencing data interpretation](https://www.sciencedaily.com/releases/2014/02/140225101143.htm)
+   - [Bias influencing action](https://mcdreeamiemusings.com/blog/2019/4/1/survivorship-bias-how-lessons-from-world-war-two-affect-clinical-research-today)
+
+3. One of the students shared the site [AllSides](https://www.allsides.com/unbiased-balanced-news) which provides the news headlines of the day, from all the different news sources, with the bias of each news source indicated. I admit, I was surprised to see where some of them fell. But it's always interesting taking a step back to see where your own source of information fits along a spectrum of bias.
+
+   <a href="https://www.allsides.com/"><img src="https://www.allsides.com/sites/default/files/AllSidesMediaBiasChart_Version1.1_11.18.19.jpg" width=200></a>
+
+4. Today we celebrate Juneteenth. 
+
+Nick Record, signing off
+
+
+## Previous Roundups
+
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.06.12</b>
+ </summary>
+
+<br>
 
 1. **Some general resources** - Here are some of the resources people shared this week that have been helpful for getting projects started:
     - Introduction to unix/bash: http://swcarpentry.github.io/shell-novice/
@@ -45,8 +71,7 @@ Data from: ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_weekly_mlo.txt
 
 Nick Record, signing off
 
-## Previous Roundups
-
+</details>
 
 <details>
  <summary>
