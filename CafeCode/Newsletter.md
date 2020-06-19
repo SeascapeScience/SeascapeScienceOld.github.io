@@ -24,7 +24,7 @@ We swim in a sea of algorithms {
 
    <a href="https://www.allsides.com/"><img src="https://www.allsides.com/sites/default/files/AllSidesMediaBiasChart_Version1.1_11.18.19.jpg" width=200></a>
 
-4. Shifting topics a little, here are two more data resources for the geosciences:
+4. Shifting topics a little, here are two more data resources for the geosciences that were shared this morning:
    - [PanGeo: a community platform for Big Data geoscience](http://pangeo.io/)
    - [OceanParcels](https://oceanparcels.org/) - Python code for Lagrangian simulation in ocean currents
    <img src="https://oceanparcels.org/images/globcurrent_fullyseeded.gif" width=500>
