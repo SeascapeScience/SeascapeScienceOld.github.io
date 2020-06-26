@@ -51,9 +51,10 @@ We swim in a sea of algorithms {
 
    <img src="https://3.bp.blogspot.com/-j-XoW9TIGEQ/VnMEaQG0clI/AAAAAAAABj8/a7BR8UOUP0Q/s400/poo.jpg" width=400>
 
-From: Meyer-Rochow, V. B., and J. Gal. 2003. Pressures produced when penguins pooh-calculations on avian defaecation. Polar Biology 27:56–58
+   - From: Meyer-Rochow, V. B., and J. Gal. 2003. Pressures produced when penguins pooh-calculations on avian defaecation. Polar Biology 27:56–58
 
- - Nick Record, signing off
+
+Nick Record, signing off
  
 
 ## Previous Roundups
