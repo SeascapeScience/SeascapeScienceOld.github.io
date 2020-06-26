@@ -11,7 +11,61 @@ We swim in a sea of algorithms {
 ### This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
-**2020.06.19**
+**2020.06.26**
+
+1. We talked mostly about data visualization and making figures this week. We mostly focused on practical tools. Here are some resources:
+   
+   - Ten Simple Rules for Better Figures 
+   https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
+
+   - Data Visualization - A practical introduction
+   https://socviz.co/lookatdata.html
+
+   - Biomedical Data Science (chapter on making plots)
+   http://genomicsclass.github.io/book/pages/plots_to_avoid.html
+
+   - A Brief Guide to Designing Effective Figures for the Scientific Paper
+   https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201102518
+
+   - Graphs, Tables, and Figures in Scientific Publications: The Good, the Bad, and How Not to Be the Latter
+   https://pubmed.ncbi.nlm.nih.gov/22305731/
+
+   - How to Display Data Badly
+   https://www.jstor.org/stable/2683253?seq=1
+
+   One interesting note is that they disagree on certain points. For example, the "Ten Rules.." paper says to use the area of a symbol to indicate magnitude. Other research says that most humans misinterpret area as an indicator of magnitude. In any case, reading through these will help you be more thoughtful when you're putting together figures.
+   
+2. I had heard that san-serif fonts were more accessible to visually impaired and dylexic people. My literature search confirmned this. What I didn't know was that there are beautiful san-serif fonts designed specifically for dislexic readers. Like this one: 
+   
+   <a href="https://en.wikipedia.org/wiki/OpenDyslexic"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/OpenDyslexic3Regular-image.svg" width=300></a>
+   
+3. Along similar lines, here are some resources for making your figures color-blind-friendly:
+
+   - https://github.com/clauswilke/colorblindr
+   - https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
+   - https://www.r-bloggers.com/ggplot2-welcome-viridis/
+
+4. Switching gears, senator Angus King (ME-I) addressed our lab last night over Zoom, and I couldn't help but scan his bookshelf. (A bookshelf is irresitable to me.) He had this book "Data and Goliath" sticking out. I haven't read it, but it's cool to see some data-geekiness showing up on the shelf of a US senator.
+
+5. To end on a fun note (not that all of this isn't fun), this figure below is rated by many, including Scientific American, as the all-time best scientific figure. I think it's up for debate, but I'll leave it here for discussion.
+
+   <img src="https://3.bp.blogspot.com/-j-XoW9TIGEQ/VnMEaQG0clI/AAAAAAAABj8/a7BR8UOUP0Q/s400/poo.jpg" width=400>
+
+From: Meyer-Rochow, V. B., and J. Gal. 2003. Pressures produced when penguins pooh-calculations on avian defaecation. Polar Biology 27:56–58
+
+ - Nick Record, signing off
+ 
+
+## Previous Roundups
+
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.06.19</b>
+ </summary>
+
+<br>
 
 1. This week our coding group talked about biases in data and in the world. The most recommended resource was the **"Parable of the Polygons"**, which is an interactive simulation about how bias shapes the world. It's a great combination of modeling and visualization. [Check it out here](https://ncase.me/polygons/)
 
@@ -33,8 +87,7 @@ We swim in a sea of algorithms {
 
 Nick Record, signing off
 
-
-## Previous Roundups
+</details>
 
 
 <details>
