@@ -35,7 +35,7 @@ We swim in a sea of algorithms {
 
    One interesting note is that they disagree on certain points. For example, the "Ten Rules.." paper says to use the area of a symbol to indicate magnitude. Other research says that most humans misinterpret area as an indicator of magnitude. In any case, reading through these will help you be more thoughtful when you're putting together figures.
    
-2. I had heard that san-serif fonts were more accessible to visually impaired and dylexic people. My literature search confirmned this. What I didn't know was that there are beautiful san-serif fonts designed specifically for dislexic readers. Like this one: 
+2. I had heard that san-serif fonts were more accessible to visually impaired and dyslexic people. My literature search confirmned this. What I didn't know was that there are beautiful san-serif fonts designed specifically for dyslexic readers. Like this one: 
    
    <a href="https://en.wikipedia.org/wiki/OpenDyslexic"><img src="https://upload.wikimedia.org/wikipedia/commons/1/16/OpenDyslexic3Regular-image.svg" width=300></a>
    
