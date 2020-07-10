@@ -11,7 +11,59 @@ We swim in a sea of algorithms {
 ### This is a weekly newsletter/roundup of resources that go along with our Café Code meetings.  
 [@SeascapeScience](https://twitter.com/seascapescience)
 
-**2020.06.26**
+
+**2020.07.10**
+
+
+1.  Today's conversation was about repositories... and repositories of repositories ("metarepositories"?)... and so on. Some dataset are lost to the void, while others we try to make available in perpetuity. It makes me wonder what data storage/sharing systems will look like in 20 years--probably something that's hard to image today. In any case, here's a list of earth science (mostly ocean) repositories (thanks to Paty Matrai for compiling the list):
+- NSF OCE (Bio; Chem) and ANT = BCO-DMO https://www.bco-dmo.org/
+- NSF Arctic = https://arcticdata.io/ (all Arctic topics)
+- NASA SeaBASS https://seabass.gsfc.nasa.gov/ (bio-optical field data)
+- NASA https://oceancolor.gsfc.nasa.gov/data/overview (remote sensing ocean color)
+- NASA EOSDIS https://earthdata.nasa.gov/learn/discipline/ocean
+- NASA data display https://giovanni.gsfc.nasa.gov/giovanni/
+- NOAA NCEI https://www.ncei.noaa.gov/access/search/index
+- IODP http://iodp.tamu.edu/curation/index.html (marine geology)
+- PANGEA https://www.pangaea.de/ (all topics; international)
+- ICES https://ecosystemdata.ices.dk/ (ocean ecology, fisheries)
+- NIH https://www.ncbi.nlm.nih.gov/geo/ (genomic data)
+- Genomic data – so many others! http://repositive.io 
+
+2.  Here is a smattering of some national (mostly closed to foreigners), regional, institutional, project and journal data repositories:
+- Australia https://portal.aodn.org.au/ (ocean) https://data.aad.gov.au/ 
+- S. Korea polar data https://kpdc.kopri.re.kr/
+- Gulf of Maine http://www.neracoos.org/
+- Gulf of Mexico https://data.gulfresearchinitiative.org/about 
+- WHOI https://www.whoi.edu/what-we-do/understand/data/
+- Argo floats http://www.argo.ucsd.edu/Argo_data_and.html (global)
+
+3.  And finally, example of repositories of repositories (or at least, something like that) and a data journal:
+- https://fairsharing.org 
+- https://www.nature.com/sdata/
+
+...Okay, does this newsletter now officially count as a metarepository?
+
+4.  Changing topics entirely, have you ever wondered who texts the most in your group chats? Or which emojis you use? Someone shared [this interesting/fun article](https://medium.com/towards-artificial-intelligence/whatsapp-group-chat-analysis-using-python-and-plotly-89bade2bc382) that walks through how to analyze data from your Whatsapp chat. The visuals are great, the write-up is accessible, and code is included. 
+
+<a href="https://medium.com/towards-artificial-intelligence/whatsapp-group-chat-analysis-using-python-and-plotly-89bade2bc382"><img src="https://miro.medium.com/max/328/1*Ifw5hupEP3z9y7sXMKMl4g.png" width=200></a>
+
+
+5.  And finally, a [thoughtful short read on "future-proofing" your data science team.](https://blog.rstudio.com/2020/06/30/future-proofing-your-data-science-team/) There are some good insights in there. It's hard to imagine what the future will look like--will we all have our data on blockchains connected to our glasses?--but still a valuable exercise. 
+
+Nick Record, signing off
+
+
+## Previous Roundups
+
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.06.26</b>
+ </summary>
+
+<br>
+
 
 1. We talked mostly about data visualization and making figures this week. We mostly focused on practical tools. Here are some resources:
    
@@ -57,8 +109,7 @@ We swim in a sea of algorithms {
 Nick Record, signing off
  
 
-## Previous Roundups
-
+</details>
 
 <details>
  <summary>
