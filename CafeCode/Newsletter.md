@@ -24,7 +24,7 @@ We swim in a sea of algorithms {
 
 <img src="https://static01.nyt.com/newsgraphics/2019/01/29/lakes/7dc460e6b01f2b641be83577fb4e19cf177bc556/lakes_efs_optimized.gif" width=400>
 
-4.  For users of R's raster package... https://github.com/rspatial/terra
+4.  Misc: For users of R's raster package... https://github.com/rspatial/terra
 
 5.  Okay, back to the deadlines. Hoping to be back on top of things next week.
 
