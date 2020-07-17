@@ -12,8 +12,35 @@ We swim in a sea of algorithms {
 [@SeascapeScience](https://twitter.com/seascapescience)
 
 
-**2020.07.10**
+**2020.07.17**
 
+1.  I'm up against deadlines today, so I'll just put in some quick updates here. Some day, this will all be automated, directly from my brain, via some artificial but more intelligent brain, out to you, my reader.
+
+2.  **Are students comfortable going back to school versus using linux** - I enjoyed this survey result from [@Aphanotus](https://twitter.com/Aphanotus) asking about comfort levels. I was amazed that students were more comfortable with in person classes than with R studio. But I found the linux result kind of encouraging.
+
+<a href="https://twitter.com/Aphanotus/status/1283827781827166209"><img src="https://pbs.twimg.com/media/EdEOdf6X0AI5t0_?format=png&name=4096x4096" width=500></a>
+
+3.  We took a look at this article [Teach About Climate Change With These 24 New York Times Graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html). There are some cool data visualizations, like this one showing lakes that will no longer freeze every winter. Can really good data visualizations be an effective replacement for experts in cases where expertise is devalued? Would you be more likely to be persuaded by an expert? Or a good data viz?
+
+<img src="https://static01.nyt.com/newsgraphics/2019/01/29/lakes/7dc460e6b01f2b641be83577fb4e19cf177bc556/lakes_efs_optimized.gif" width=400>
+
+4.  For users of R's raster package... https://github.com/rspatial/terra
+
+5.  Okay, back to the deadlines. Hoping to be back on top of things next week.
+
+Nick Record, signing off
+
+
+## Previous Roundups
+
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.07.10</b>
+ </summary>
+
+<br>
 
 1.  Today's conversation was about repositories... and repositories of repositories ("metarepositories"?)... and so on. Some dataset are lost to the void, while others we try to make available in perpetuity. It makes me wonder what data storage/sharing systems will look like in 20 years--probably something that's hard to image today. In any case, here's a list of earth science (mostly ocean) repositories (thanks to Paty Matrai for compiling the list):
 - NSF OCE (Bio; Chem) and ANT = BCO-DMO https://www.bco-dmo.org/
@@ -53,8 +80,7 @@ We swim in a sea of algorithms {
 Nick Record, signing off
 
 
-## Previous Roundups
-
+</details>
 
 <details>
  <summary>
