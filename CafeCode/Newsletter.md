@@ -16,7 +16,7 @@ We swim in a sea of algorithms {
 
 1.  I'm up against deadlines today, so I'll just put in some quick updates here. Some day, this will all be automated, directly from my brain, via some artificial but more intelligent brain, out to you, my reader.
 
-2.  **Are students comfortable going back to school versus using linux** - I enjoyed this survey result from [@Aphanotus](https://twitter.com/Aphanotus) asking about comfort levels. I was amazed that students were more comfortable with in person classes than with R studio. But I found the linux result kind of encouraging.
+2.  **Are students comfortable going back to school versus using linux** - I enjoyed this survey result from [@Aphanotus](https://twitter.com/Aphanotus) asking about comfort levels. I was amazed that students were more comfortable with in person classes than with online group work. But I found the linux result kind of encouraging.
 
 <a href="https://twitter.com/Aphanotus/status/1283827781827166209"><img src="https://pbs.twimg.com/media/EdEOdf6X0AI5t0_?format=png&name=4096x4096" width=500></a>
 
