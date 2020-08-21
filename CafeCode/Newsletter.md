@@ -42,7 +42,7 @@ We swim in a sea of algorithms {
 
 Nick Record, signing off
 
-</summary>
+</details>
 
 
 <details>
