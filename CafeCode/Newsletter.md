@@ -12,7 +12,19 @@ We swim in a sea of algorithms {
 [@SeascapeScience](https://twitter.com/seascapescience)
 
 
-**2020.07.17**
+**2020.08.21**
+
+
+## Previous Roundups
+
+<details>
+ <summary>
+  <b style="font-family:'Courier New'">
+  2020.07.17</b>
+ </summary>
+
+<br>
+
 
 1.  I'm up against deadlines today, so I'll just put in some quick updates here. Some day, this will all be automated, directly from my brain, via some artificial but more intelligent brain, out to you, my reader.
 
@@ -30,8 +42,7 @@ We swim in a sea of algorithms {
 
 Nick Record, signing off
 
-
-## Previous Roundups
+</summary>
 
 
 <details>
