@@ -14,6 +14,20 @@ We swim in a sea of algorithms {
 
 **2020.08.21**
 
+1.  It has been a month since the last update. This has been largely because our bandwidth was taken up by the amazing [OceanHackWeek 2020 event](https://oceanhackweek.github.io) and its [follow-up activity](https://twitter.com/search?q=%23oceanhackweek&src=typed_query). We had participants from 21 countries, on six continents. We had already planned on making this a multi-site event to increase accessibility and decrease carbon footprint. The pandemic made us go totally virtual, and the result was participation from all around the world.
+
+<img src="https://twitter.com/SeascapeScience/status/1295708658664443904/photo/1" width=500>
+
+2.  There are lots of resources coming from OceanHackWeek. Here is the [video playlist of tutorials](https://www.youtube.com/playlist?list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF) and the [repository of tutorial code](https://github.com/oceanhackweek/ohw20-tutorials).
+
+3.  Changing topics, have you followed the story about algorithmic bias in the UK educational system? The more I learn about algorithmic bias, the more I realize how pervasive it is (is that a form of algorithmic bias itself?). One fascinating aspect of this scandal is how [a student predicted the situation in an award-winning dystopian short story](https://www.theguardian.com/education/2020/aug/18/ashton-a-level-student-predicted-results-fiasco-in-prize-winning-story-jessica-johnson-ashton). I wonder if she was using autocomplete when she wrote that.
+
+4.  Resource of the week - answering R related questions even better than Google can: https://rseek.org
+
+5.  Finally, just a note, mostly to motivate myself. Someday soon I will organize this into a markdown webpage, so it doesn't look so awkward. Thanks for bearing with me until then.
+
+Nick Record, signing off
+
 
 ## Previous Roundups
 
