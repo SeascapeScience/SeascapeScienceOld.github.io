@@ -14,9 +14,8 @@ We swim in a sea of algorithms {
 
 **2020.08.21**
 
-1.  It has been a month since the last update. This has been largely because our bandwidth was taken up by the amazing [OceanHackWeek 2020 event](https://oceanhackweek.github.io) and its [follow-up activity](https://twitter.com/search?q=%23oceanhackweek&src=typed_query). We had participants from 21 countries, on six continents. We had already planned on making this a multi-site event to increase accessibility and decrease carbon footprint. The pandemic made us go totally virtual, and the result was participation from all around the world.
-
-<img src="https://pbs.twimg.com/media/EftH5j8WsAE7zvP?format=jpg&name=4096x4096" width=400>
+1.  It has been a month since the last update! This has been largely because our bandwidth was taken up by the amazing [OceanHackWeek 2020 event](https://oceanhackweek.github.io) and its [follow-up activity](https://twitter.com/search?q=%23oceanhackweek&src=typed_query). We had participants from 21 countries, on six continents. We had already planned on making this a multi-site event to increase accessibility and decrease carbon footprint. The pandemic made us go totally virtual, and the result was participation from all around the world.
+<&nbsp><&nbsp><&nbsp><&nbsp><&nbsp><img src="https://pbs.twimg.com/media/EftH5j8WsAE7zvP?format=jpg&name=4096x4096" width=400>
 
 2.  There are lots of resources coming from OceanHackWeek. Here is the [video playlist of tutorials](https://www.youtube.com/playlist?list=PLA6PlfxWZPLTPQ_OIr3dDPF9FRiHQXoVF) and the [repository of tutorial code](https://github.com/oceanhackweek/ohw20-tutorials).
 
