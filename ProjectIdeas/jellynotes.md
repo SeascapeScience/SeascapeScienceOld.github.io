@@ -29,7 +29,7 @@ ratio of the zooplankton community. This image shows a multiple regression model
 
      For now, I use them to drive a daily jellyfish forecast for three species. The forecast can be found here:
 
-     <https://eco.bigelow/org/jellycast>
+     <https://eco.bigelow.org/jellycast>
 
      The paper describing the methodology is here:
 
