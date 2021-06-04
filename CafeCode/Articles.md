@@ -9,6 +9,7 @@
 - https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained
 - https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
 - [Does ocean acidification alter fish behavior? Fraud allegations create a sea of doubt](https://www.sciencemag.org/news/2021/05/does-ocean-acidification-alter-fish-behavior-fraud-allegations-create-sea-doubt)
+- [Uncovering Big Data Bias in Sustainability Science](https://umaine.edu/spire/2021/03/29/bigdatabias/)
 
 ## Code Resources
 
