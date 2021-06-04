@@ -1,20 +1,18 @@
 # Summer Articles / Videos
 
-May 29 - [What do we do with all this big data?](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data/transcript#t-26273) (TED talk)
+[What do we do with all this big data?](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data/transcript#t-26273) (TED talk)
 
-June 5 - [What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
+[What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
 
-June 12 - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript) (TED talk)
+[The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript) (TED talk)
 
-June 19 - [AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
+[AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
 
-June 26 - [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/) (Video)
+[Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/) (Video)
 
-July 3 - Holiday
+[Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
 
-July 17 - [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
-
-July 24 - [In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
+[In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
 
 # Other Resources
 
@@ -37,3 +35,11 @@ July 24 - [In Canada, Inuit Communities Are Shaping Research Priorities](https:/
 - [What do we do with all this big data? (Susan Etlinger)](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)
 - [Gender imbalance in computer science](https://www.facebook.com/NPR/videos/10156691618936756/)
 - [The developer migration](https://www.youtube.com/watch?reload=9&v=xp6UCQvKKzI)
+
+## Books 
+- [Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor , Virginia Eubanks](https://us.macmillan.com/books/9781250074317)
+- [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, Cathy O'Neil](https://weaponsofmathdestructionbook.com/)
+- [Invisible Women: Exposing Data Bias in a World Designed for Men, Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/)
+- [Close to the Machine: Technophilia and its Discontents, Ellen Ullman](https://us.macmillan.com/books/9781250002488)
+- ["Raw Data" Is an Oxymoron, Lisa Gitelman (ed)](https://mitpress.mit.edu/books/raw-data-oxymoron)
+- 
