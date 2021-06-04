@@ -39,6 +39,7 @@
 - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, Cathy O'Neil](https://weaponsofmathdestructionbook.com/)
 - [You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place, Janelle Shane](https://en.wikipedia.org/wiki/You_Look_Like_a_Thing_and_I_Love_You)
 - [Invisible Women: Exposing Data Bias in a World Designed for Men, Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/)
+- [Life in Code: A Personal History of Technology, Ellen Ullman](https://us.macmillan.com/books/9780374534516)
 - [Close to the Machine: Technophilia and its Discontents, Ellen Ullman](https://us.macmillan.com/books/9781250002488)
 - ["Raw Data" Is an Oxymoron, Lisa Gitelman (ed)](https://mitpress.mit.edu/books/raw-data-oxymoron)
 - [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, Shoshana Zuboff](https://en.wikipedia.org/wiki/The_Age_of_Surveillance_Capitalism)
