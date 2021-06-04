@@ -1,7 +1,6 @@
 ## Summer Articles
 
 - [AI Is Biased. Here's How Scientists Are Trying to Fix It](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/)
-- [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/) (Video)
 - [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
 - [In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
 - https://www.sciencemag.org/news/2016/09/can-predictive-policing-prevent-crime-it-happens
@@ -21,6 +20,7 @@
 
 ## Videos and TED talks
 
+- [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/)
 - [What is algorithmic bias?](https://bdtechtalks.com/2018/03/26/racist-sexist-ai-deep-learning-algorithms/)
 - [The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization/transcript) (TED talk)
 - [Dr. Esther: Highlighting underrespresented scientists, researchers, innovators and more](https://www.youtube.com/channel/UCO8fHSJrOnGZCZ19HvGvSLA)
