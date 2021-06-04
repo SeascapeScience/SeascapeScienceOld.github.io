@@ -4,6 +4,11 @@
 - [Should We Sacrifice Our Data Privacy To Fight The Coronavirus?](https://fivethirtyeight.com/videos/should-we-sacrifice-our-data-privacy-to-fight-the-coronavirus/) (Video)
 - [Teach about climate change with these 24 New York Times graphs](https://www.nytimes.com/2019/02/28/learning/teach-about-climate-change-with-these-24-new-york-times-graphs.html)
 - [In Canada, Inuit Communities Are Shaping Research Priorities](https://undark.org/2020/05/27/canada-inuit-research/)
+- https://www.sciencemag.org/news/2016/09/can-predictive-policing-prevent-crime-it-happens
+- https://www.govtech.com/public-safety/LAPD-Predictive-Policing-Tool-Raises-Racial-Bias-Concerns.html
+- https://www.brennancenter.org/our-work/research-reports/predictive-policing-explained
+- https://www.theverge.com/2018/4/26/17285058/predictive-policing-predpol-pentagon-ai-racial-bias
+- [Does ocean acidification alter fish behavior? Fraud allegations create a sea of doubt](https://www.sciencemag.org/news/2021/05/does-ocean-acidification-alter-fish-behavior-fraud-allegations-create-sea-doubt)
 
 ## Code Resources
 
