@@ -4,7 +4,7 @@
 
 1. **Time series collections** --  At one point, following some big jelylfish blooms in coastal Maine, people were asking if there was a trend. I pulled together time series from a few sources: EcoMon, dogfish stomachs (from Ford), and CPR data. The 1990s shift stood out, but maybe there is a longer-term trend as well. This data could be updated to include more recent years.
 
-     <img src="https://SeascapeScienceOld.github.io/images/JellyTimeSeriesMaine.png" width="600">
+     <img src="https://github.com/SeascapeScience/SeascapeScienceOld.github.io/tree/master/images/JellyTimeSeriesMaine.png" width="600">
 
 2. **Other historical information** --  During some of the recent jellyfish blooms, I started collecting citizen reports of jellyfish sightings (see below). At one point, I compared the sighting locations to historical data from Henry Bigelow from the early 1900s. This map shows the overlap between the region where he found whitecross jellyfish (shaded region) and the citizen reports of the same species (yellow dots). There's a pretty good overlap.
 
