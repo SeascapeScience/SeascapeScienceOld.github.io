@@ -37,5 +37,5 @@ ratio of the zooplankton community. This image shows a multiple regression model
 
 2. **Salp model** --  A student put together a dynamical population model of salps. The model did a great job capturing the seasonal cycle of salps measured in the EcoMon dataset (a rapid bloom in September). The inter-annual variability was not captured as well. It was a summer project, so the student got the model up and running well, but didn't have time to go beyond that.
 
-     <img src="https://SeascapeScienceOld.github.io/images/SalpModel.png" width="600">
+     <img src="https://github.com/SeascapeScience/SeascapeScienceOld.github.io/blob/master/images/SalpModel.png" width="600">
 
