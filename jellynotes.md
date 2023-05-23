@@ -19,13 +19,13 @@
 2. **Empirical modeling of the "gelisphere"** -- Using predictor variables to map the carbon-to-volume 
 ratio of the zooplankton community. This image shows a multiple regression model that used data from the World Ocean Atlas (temperature, O2, etc...) to predict (estimate) the carbon-to-volume numbers taken from the Copepod database. We could definitely go beyond multiple regression and do something more interesting.
 
-     <img src="https://SeascapeScienceOld.github.io/images/GeliMultiregress04.jpg" width="500">
+     <img src="https://github.com/SeascapeScience/SeascapeScienceOld.github.io/blob/master/images/GeliMultiregress04.jpg" width="500">
 
 ## Modeling
 
 1. **Citizen reports and forecasts** --  Since starting the citizen reporting program in 2014, I've received thousands of jellyfish sighting reports. These form an interesting dataset in their own right, including size, species, and imagery. There are probably some interesting questions we could ask. Here are some of the sightings from the first summer:
 
-     <img src="https://SeascapeScienceOld.github.io/images/Jellies_JunJulAug_zoom.gif" width="600">
+     <img src="https://github.com/SeascapeScience/SeascapeScienceOld.github.io/blob/master/images/Jellies_JunJulAug_zoom.gif" width="600">
 
      For now, I use them to drive a daily jellyfish forecast for three species. The forecast can be found here:
 
