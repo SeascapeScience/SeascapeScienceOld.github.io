@@ -8,13 +8,13 @@
 
 2. **Other historical information** --  During some of the recent jellyfish blooms, I started collecting citizen reports of jellyfish sightings (see below). At one point, I compared the sighting locations to historical data from Henry Bigelow from the early 1900s. This map shows the overlap between the region where he found whitecross jellyfish (shaded region) and the citizen reports of the same species (yellow dots). There's a pretty good overlap.
 
-     <img src="https://SeascapeScienceOld.github.io/images/JellyMaps02_Bigelow.jpg" width="600">
+     <img src="https://github.com/SeascapeScience/SeascapeScienceOld.github.io/blob/master/images/JellyMaps02_Bigelow.jpg" width="600">
 
 ## "Gelatinosity" trait
 
 1. **Forecastability of gelatinous species** -- Among a collection of forecasts of the various zooplankton taxa in the EcoMon dataset, the forecasting accuracy depends on the gelatinosity trait. The one exception is krill, which are probably undersampled in this dataset. Everything else falls along the line. I can't remember which forecasting algorithm we used.
 
-     <img src="https://SeascapeScienceOld.github.io/images/GelatinosityForecastAccuracy.png" width="400">
+     <img src="https://github.com/SeascapeScience/SeascapeScienceOld.github.io/blob/master/images/GelatinosityForecastAccuracy.png" width="400">
 
 2. **Empirical modeling of the "gelisphere"** -- Using predictor variables to map the carbon-to-volume 
 ratio of the zooplankton community. This image shows a multiple regression model that used data from the World Ocean Atlas (temperature, O2, etc...) to predict (estimate) the carbon-to-volume numbers taken from the Copepod database. We could definitely go beyond multiple regression and do something more interesting.
